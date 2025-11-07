@@ -10,7 +10,7 @@ const Foco = ({ news, loadingNews, tvPosts, loadingTvPosts }) => {
     return (
       <>
       <Helmet>
-        <title>Foco | É Notícia Altamira</title>
+        <title>Foco | É Notícia Colares</title>
       </Helmet>
         <Header />
         <Ad/>
